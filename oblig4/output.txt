@@ -1,0 +1,4 @@
+Jeg er prosess 786643, min forelder er 780296
+Jeg er prosess 786645, min forelder er 1
+Jeg er prosess 786644, min forelder er 1
+Jeg er prosess 786646, min forelder er 1
